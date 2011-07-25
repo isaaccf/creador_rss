@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0">
+
+    <channel>
+        <title>Scrubs</title>
+        <link>
+	http://www.seriesyonkis.com/serie/scrubs/
+        </link>
+
+        <description>Capítulos de Scrubs</description>
+
+        <item>
+
+            <nome>Capítulo 1</nome>
+
+            <href>http://www.seriesyonkis.com/capitulo/scrubs/-episodio-piloto/9616/</href>
+
+        </item>
+
+        <item>
+
+            <nome>Capítulo 2</nome>
+
+            <href>http://www.seriesyonkis.com/capitulo/scrubs/capitulo-2/9277/</href>
+
+        </item>
+
+        <item>
+            <item>
+
+            <nome>Capítulo 3</nome>
+
+            <href>http://www.seriesyonkis.com/capitulo/scrubs/capitulo-3/9661/</href>
+
+        </item>
+
+        <item>
+    </channel>
+
+</rss> 
